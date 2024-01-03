@@ -1,3 +1,15 @@
+Keychanger Mod
+
+Allows your friends to change your keys on the fly!
+
+Set the user that has their keys changed: `/change_user <player>`
+Unset the user so no one gets their keys changed: `/reset_user`
+Change a keybind: `/change_bindind <binding> <key>`
+Get help for the mod: `/keychanger_help`
+
+The mod only has to be installed on the server and on the client of the user whose keybinds are gonna be changed
+
+-------------------------------------------------------------------------------------
 
 Source installation information for modders
 -------------------------------------------
